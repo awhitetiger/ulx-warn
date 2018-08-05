@@ -1,4 +1,4 @@
-CATEGORY_NAME = "SammyServers Extra"
+CATEGORY_NAME = "Warning System"
 
 
 function ulx.warn(calling_ply, target_ply, reason)
